@@ -54,8 +54,3 @@ npm start
 - `PUT /api/items/{id}` : Mettre à jour un item par son ID.
 - `DELETE /api/items/{id}` : Supprimer un item par son ID.
 
-## Contribuer
-Les contributions sont les bienvenues. Veuillez soumettre une pull request pour toute amélioration ou correction de bug.
-
-## Licence
-Ce projet est sous licence MIT.
